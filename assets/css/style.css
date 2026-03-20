@@ -365,7 +365,10 @@ nav {
 
 /* === EXPERIENCE === */
 .experience-cols {
-  display: block;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: start;
 }
 
 .timeline { position: relative; padding-left: 28px; }
