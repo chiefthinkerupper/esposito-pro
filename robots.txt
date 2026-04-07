@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.esposito.pro/sitemap.xml
+Sitemap: https://esposito.pro/sitemap.xml
